@@ -21,4 +21,4 @@ Petify a simple yet engaging web interface designed to help dog lovers find new 
 - **Enhanced Search:** Integrate a search feature to filter dogs by breed, size, and age.
 <h2>Contribution:</h2>
 Feel free to fork the repository, submit pull requests, or report issues. Your contributions are welcome!
-<img width="1680" height="812" alt="Screenshot 2025-09-01 at 11 09 25 AM" src="https://github.com/user-attachments/assets/32b17c75-e1b6-4ca9-b7a8-94a2445f723b" />
+<img width="1680" height="925" alt="Screenshot 2025-09-01 at 11 47 03 AM" src="https://github.com/user-attachments/assets/bf3d0a35-96fa-4c2e-a163-f0948bc9a568" />
