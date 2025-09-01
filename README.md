@@ -19,4 +19,6 @@ Petify a simple yet engaging web interface designed to help dog lovers find new 
 - **Add Backend Integration:** To pull real-time data of nearby dog shops.
 - **User Profiles:** Allow users to create profiles and save their favorite dogs.
 - **Enhanced Search:** Integrate a search feature to filter dogs by breed, size, and age.
-
+<h2>Contribution:</h2>
+Feel free to fork the repository, submit pull requests, or report issues. Your contributions are welcome!
+<img width="1680" height="812" alt="Screenshot 2025-09-01 at 11 09 25 AM" src="https://github.com/user-attachments/assets/32b17c75-e1b6-4ca9-b7a8-94a2445f723b" />
